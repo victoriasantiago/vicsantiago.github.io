@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Oi, tudo bom? Esse é o meu espaço para compartilhar sobre temas que me interessam. 
   Geralmente eu escrevo sobre aprendizagem. Às vezes aprendizagem de gente. Às vezes aprendizagem de máquina.
 permalink: ':Vic Santiago/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://victoriasantiago.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
