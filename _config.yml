@@ -10,10 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Victória Santiago # add your name
 author-img: "vic-santiago.png" # add your photo
-about-author:  Oi, tudo bom? Esse é o meu espaço para compartilhar sobre temas que me interessam. 
-  Geralmente eu escrevo sobre aprendizagem. 
-  Às vezes aprendizagem de gente. 
-  Às vezes aprendizagem de máquina. # add description
+about-author:  Desenvolvedora de software. Estudante de Machine Learning. Entusiasta de aprendizagem livre.
+ # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: victoriasantiago # add your Github handle
